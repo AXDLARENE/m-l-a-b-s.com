@@ -3,20 +3,20 @@ Desenvolvido Por: mLabs
 -->
 <?php
 $url = "http://m-l-a-b-s.com/";
-$title = "mLabs";
+$title = "Qual óculos famoso combina com você?";
 
 $var = array(
         "1" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/2m6xCjt"
+                  "titulo" => "Mania",
+                  "image" => "http://gph.is/2n22kaK
                   ),
         "2" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/1pptU1s"
+                  "titulo" => "Mania",
+                  "image" => "http://gph.is/VwQcMG"
                   ),
         "3" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/NYwUyC"
+                  "titulo" => "Mania",
+                  "image" => "http://gph.is/2c2SAqz"
                   ),
         );
 
