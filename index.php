@@ -3,7 +3,7 @@ Desenvolvido Por: mLabs
 -->
 <?php
 $url = "http://m-l-a-b-s.com/";
-$title = "mLabs";
+$title = "Qual personagem iconico de óculos combina com você?";
 
 $var = array(
         "1" => array(
