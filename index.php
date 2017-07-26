@@ -7,16 +7,24 @@ $title = "mLabs";
 
 $var = array(
         "1" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/2m6xCjt"
+                  "titulo" => "Harry Potter",
+                  "image" => "http://gph.is/VwQcMG"
                   ),
         "2" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/1pptU1s"
+                  "titulo" => "JOHN LENNON",
+                  "image" => "http://gph.is/2c2SAqz"
                   ),
         "3" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/NYwUyC"
+                  "titulo" => "ELTON JOHN",
+                  "image" => "http://gph.is/2n22kaK"
+                  ),
+         "4" => array(
+                  "titulo" => "Ken",
+                  "image" => "http://gph.is/1qAEKwA"
+                  ),
+        "5" => array(
+                  "titulo" => "Squirtle",
+                  "image" => "http://gph.is/28L5rgu"
                   ),
         );
 
